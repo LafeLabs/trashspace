@@ -4,7 +4,7 @@
 
 # TRASHSPACE
 
-A trashspace is a space where people come together to build technology from trash for distribution directly into their communities.  
+A trashspace is a space where people come together to build technology from trash for distribution directly into their communities.  Our goal is to create a new civilization from only trash and sun which provide all the elements of a good life to all people for free. We aim to eliminate all mining and other extraction industries by 2050.
 
 The main elements of the TRASHSPACE are:
 
@@ -12,8 +12,12 @@ The main elements of the TRASHSPACE are:
 2. Research in building self-replicating technology from trash which can be used to provide all human needs to our direct community
 3. A safe, free and warm place to be where free food and child care are provided
 
-TRASHSPACE's try to avoid needing funding by running on volunteer labor in existing spaces.  This can be classrooms, schools, religious institutions, art spaces/galleries, maker spaces of all kinds, or just homes.  We sell the customers of our products on the IDEA of building a new civilization from trash in which everything is free and we eliminate mining and extraction completely.  If people believe in our mission they will pay for our products and services, which will fund the research and development which will lead to more and better products, and that will create the feedback loops to scale.
+**location** TRASHSPACE's try to avoid needing funding by running on volunteer labor in existing spaces.  This can be classrooms, schools, religious institutions, art spaces/galleries, maker spaces of all kinds, public libraries, museums, or just homes.  
 
-Teachers can get funded through existing educational programs, add curriculum if they are already paid to teach, volunteer, or apply for educational grants to support teaching without charging students.  Teachers guiding students in doing research can also raise grant money to support their own salaries and those of the students, which can be done through existing educational institutions like universities.  But even in the case of research, all work is directed toward a deliverable product or service which the students can trade for other goods and services to grow the project.
+**replication** We sell the customers of our products on the IDEA of building a new civilization from trash in which everything is free and we eliminate mining and extraction completely.  If people believe in our mission they will pay for our products and services even if they are only marginally useful(pure art).  If this stimulates the sharing of media which brings in new people who hear our story and believe, it will fuel a process of viral self-replication. 
+
+**funding** People can get funded through existing educational programs to teach or create curriculum.  We do not apply for grants to do research, but rather educational grants to teach students how to do research, who then are able to pursue research free of any constraints of R&D funding priorities.  Our only constraint is that the student learn the STEAM material which would normally be funded for education.  Rather than build a new institute or foundation, we will join the work of TRASHSPACES into existing institutions and raise grants through those organizations, which will then support everyone as employees or contractors.
+
+
 
  

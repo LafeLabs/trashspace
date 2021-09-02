@@ -1,4 +1,4 @@
-[localhost://](localhost://)
+[localhost/](localhost://)
 
 [https://github.com/LafeLabs/trashspace](https://github.com/LafeLabs/trashspace)
 
